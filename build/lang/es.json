@@ -594,7 +594,7 @@
     "mm.login.missinglastname": "Falta el apellido(s)",
     "mm.login.mobileservicesnotenabled": "El acceso móvil no está habilitado para este sitio, por favor, contacte con su administrador si piensa que debería estar habilitado.",
     "mm.login.newaccount": "Nueva cuenta",
-    "mm.login.newsitedescription": "Introduzca la URL del aula virtual. Tenga en cuenta que podría no estar configurado para trabajar con esta aplicación.",
+    "mm.login.newsitedescription": "Introduzca la URL del aula virtual http://www.tejerinaymorenosrl.com/educacion/",
     "mm.login.notloggedin": "Ha de entrar al sitio.",
     "mm.login.password": "Contraseña",
     "mm.login.passwordforgotten": "Contraseña olvidada",
