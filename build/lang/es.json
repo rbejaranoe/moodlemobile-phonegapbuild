@@ -556,7 +556,7 @@
     "mm.login.checksiteversion": "Comprueba que tu sitio utiliza Moodle 2.4 o superior.",
     "mm.login.confirmdeletesite": "¿Está seguro de que quiere eliminar el sitio {{sitename}}?",
     "mm.login.connect": "Conectar",
-    "mm.login.connecttomoodle": "Conectar a Moodle",
+    "mm.login.connecttomoodle": "Conectar a Tejerina y Moreno SRL",
     "mm.login.contactyouradministrator": "Contacte a su administrador del sitio para más ayuda.",
     "mm.login.contactyouradministratorissue": "Por favor, pídale al administrador que revise el siguiente problema: {{$a}}",
     "mm.login.createaccount": "Crear cuenta",
